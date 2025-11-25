@@ -7,7 +7,9 @@ Lovable app link :    https://sheet-send-gleam.lovable.app
 
 Video Link :   https://drive.google.com/file/d/17wlkDcVIZJxszK8mvwgz-PRcroFviAzP/view?usp=sharing
 
-workflow link:   https://drive.google.com/file/d/146lGdwYqP-xLNg3ISDQmyQdzVnZOb-qQ/view?usp=sharing
+
+(Uploaded JSON workflow is not the latest, so kindly check it not the uploaded one)
+This is the updated workflow link:   https://drive.google.com/file/d/146lGdwYqP-xLNg3ISDQmyQdzVnZOb-qQ/view?usp=sharing
 
 
 - **FastAPI backend (Python)**
@@ -204,11 +206,4 @@ is correctly passed from Webhook → Set → Scraper.
 Private project — personal use only unless permitted.
 
 ---
-
-# 🎉 You're All Set!
-If you want:
-- PDF version  
-- DOCX version  
-- GitHub badges  
-- More diagrams or visuals  
-Just tell me!
+Done by: Md Saikot Hossain Sojib
