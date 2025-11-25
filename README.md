@@ -3,6 +3,9 @@
 
 This project is an **AI-powered Article Processing System** that extracts summaries and insights from any article URL using:
 
+Lovable app link :    https://mail-gist.lovable.app/
+
+
 - **FastAPI backend (Python)**
 - **n8n automation workflow**
 - **Claude AI (Anthropic) for summarization & insights**
