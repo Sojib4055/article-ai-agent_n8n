@@ -5,6 +5,8 @@ This project is an **AI-powered Article Processing System** that extracts summar
 
 Lovable app link :    https://mail-gist.lovable.app/
 
+Video Link :   https://drive.google.com/file/d/1VTm4McjJee4zTJHEyZlgtv02s1sdUOlD/view?usp=sharing
+
 
 - **FastAPI backend (Python)**
 - **n8n automation workflow**
