@@ -3,9 +3,11 @@
 
 This project is an **AI-powered Article Processing System** that extracts summaries and insights from any article URL using:
 
-Lovable app link :    https://mail-gist.lovable.app/
+Lovable app link :    https://sheet-send-gleam.lovable.app
 
-Video Link :   https://drive.google.com/file/d/1VTm4McjJee4zTJHEyZlgtv02s1sdUOlD/view?usp=sharing
+Video Link :   https://drive.google.com/file/d/17wlkDcVIZJxszK8mvwgz-PRcroFviAzP/view?usp=sharing
+
+workflow link:   https://drive.google.com/file/d/146lGdwYqP-xLNg3ISDQmyQdzVnZOb-qQ/view?usp=sharing
 
 
 - **FastAPI backend (Python)**
