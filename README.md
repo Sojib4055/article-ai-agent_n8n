@@ -203,8 +203,7 @@ is correctly passed from Webhook → Set → Scraper.
 
 ---
 
-# 📄 License
-Private project — personal use only unless permitted.
+
 
 ---
 Done by: Md Saikot Hossain Sojib
